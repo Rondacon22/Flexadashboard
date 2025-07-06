@@ -1,6 +1,6 @@
 ---
 title: "Final Project STAT206A"
-Author: "RAMEEN"
+Author: "RAMEEN JALIL"
 Date: "2024-06-16"
 output: 
   flexdashboard::flex_dashboard:
